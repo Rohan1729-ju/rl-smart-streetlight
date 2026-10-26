@@ -5,8 +5,8 @@ Tabular Q-learning agent that sets streetlight brightness (0/25/50/75/100 %) eve
 the current ambient light and pedestrian activity. Compared against fixed-brightness,
 random and dusk-to-dawn baselines in a custom simulator.
 
-**Course:** AI Assignment 2 – Real-Life Use Cases of RL (IIT Jodhpur)
-**Team:** <add all team member names + roll numbers here>
+**Course:** AI Assignment 2 – Real-Life Use Cases of RL 
+**Team:** < Rohan Kumar Duddeda B21AI031>
 
 ## Installation
 ```bash
